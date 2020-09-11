@@ -25,5 +25,5 @@ Still to be implemented.
 xi)   mygit merge source_file target_file&nbsp;\
 
 \
-Namaskaar!
+
 
